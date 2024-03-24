@@ -1,4 +1,4 @@
-<h2 align="left">Hey!👋</h2>
+<h1 align="left">Hey!👋</h2>
 
 ###
 
@@ -136,9 +136,7 @@
   <a href="https://www.linkedin.com/in/michele-gazzola-403079263/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[michele.98g@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
